@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Studying Production Engineering (UCS) 🎓
-- Studying JavaScript, Java and C#
+- Studying JavaScript, Java and C
 - Knowledge in Python, MySQL, HTML and CSS
 - Soft skills: communication, teamwork, time management, decision making for problem solving 🎯
 - OBMEP 2015 bronze medalist 🥉
