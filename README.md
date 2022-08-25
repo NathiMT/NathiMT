@@ -1,18 +1,54 @@
-### Hi there 👋
+<h1 align="center">Hi there!👋 <br>I'm Nathália!</h1>
 
-- Studying Production Engineering (UCS) 🎓
-- Studying JavaScript, Java and C
-- Knowledge in Python, MySQL, HTML and CSS
-- Soft skills: communication, teamwork, time management, decision making for problem solving 🎯
-- OBMEP 2015 bronze medalist 🥉
-- OBMEP 2016 silver medalist 🥈
+###
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<h3 align="left">About me</h3>
+
+###
+
+<ul align="left">
+  <li>Studying Computer Engineering (UCS) 🎓</li>
+  <li>Studying JavaScript and C 📚</li>
+  <li>Knowledge in Python, MySQL, HTML and CSS 📌</li>
+  <li>Soft skills: communication, teamwork, time management, decision making for problem solving 🎯</li>
+  <li>OBMEP 2015 bronze medalist 🥉</li>
+  <li>OBMEP 2016 silver medalist 🥈</li>
+  <li>I like to solve problems, so you can find me on Beecrowd ✨</li>
+  https://www.beecrowd.com.br/judge/pt/profile/698461
+</ul>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+</div>
+
+###
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathiMT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Contacts
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt = 'Linkedin' height = '30'>](https://www.linkedin.com/in/nath%C3%A1lia-menegol-teles-3a66b31a0/)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt = 'E-mail' height = '30'>](mailto:nmteles@ucs.br)
+###
+
+<h3 align="left">Contacts</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nath%C3%A1lia-menegol-teles-3a66b31a0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto: nmteles@ucs.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/nathimteles/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
