@@ -51,4 +51,6 @@
   </a>
 </div>
 
+<img href="https://raw.githubusercontent.com/Nathi/Nathi/blob/output/snake.svg" alt="Snake animation" />
+
 ###
